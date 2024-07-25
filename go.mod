@@ -1,3 +1,3 @@
-module kreklow.us/go/go-adsb
+module github.com/imkonsowa/go-adsb
 
-go 1.13
+go 1.22
